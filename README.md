@@ -1,10 +1,11 @@
-<img align="right" alt="Bruna-pic" height="130" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/1300090_ljNQ9izk.png">
+<img align="right" alt="Bruna-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/1300090_ljNQ9izk.png">
 <h1>Hello World! 👋</h1>
 <div> 
     <a href="https://instagram.com/brunafalheiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/brunafalheiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:brunapf@ic.ufrj.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
+ <br></br>
 <div >
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunafalheiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunafalheiro&layout=compact&langs_count=7&theme=dracula"/>
